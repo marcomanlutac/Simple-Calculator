@@ -28,25 +28,3 @@ Simple-Calculator (repo root)
 │       └─ Release/
 │           └─ net10.0-windows/
 │               └─ SimpleCalculator.exe
-
-
-Tip: The bin/ folder contains compiled files and can usually be ignored when uploading to GitHub. Only include source files like .vb and the .slnx solution file. ✅
-
-🚀 How to Run the Project
-
-Open Visual Studio 2022 (or newer)
-
-Open the solution file:
-
-SimpleCalculator.slnx
-
-
-Press F5 or click Start to run the calculator.
-
-💡 Notes
-
-The program is built in Release mode by default.
-
-If you can’t see the .exe, make sure you build the solution first in Visual Studio.
-
-Avoid uploading the bin/ and obj/ folders to GitHub; they are temporary build files.
